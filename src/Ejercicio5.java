@@ -1,5 +1,3 @@
-import com.sun.source.tree.IfTree;
-
 import java.util.Scanner;
 
 public class Ejercicio5 {
