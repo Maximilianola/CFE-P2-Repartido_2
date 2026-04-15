@@ -27,7 +27,6 @@ public class Ejercicio8 {
                     aux = leer.nextInt();
 
                 }
-
                 suma=suma+aux;
             }
         System.out.println();
